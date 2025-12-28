@@ -43,11 +43,14 @@ LOAD REGULATION TABULATION:
 
 LINE REGULATION MODEL GRAPH:
 
-![WhatsApp Image 2025-12-26 at 23 06 58](https://github.com/user-attachments/assets/cb1ba80d-dae2-4ce4-8bb3-8413ba039e43)
+![WhatsApp Image 2025-12-28 at 12 57 15](https://github.com/user-attachments/assets/2dfb4eb9-7bc5-447b-b1e9-e256d938e5af)
+
 
 LOAD REGULATION MODEL GRAPH:
 
-![WhatsApp Image 2025-12-26 at 23 08 14](https://github.com/user-attachments/assets/616a43ad-dd06-4291-91aa-7027cadb3a7c)
+![WhatsApp Image 2025-12-28 at 12 56 16](https://github.com/user-attachments/assets/e2c262f7-8567-47cd-8a37-5ad635233d42)
+
+
 
 PRECAUTIONS:
 
